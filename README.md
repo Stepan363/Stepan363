@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Stepan363
-- 👀 I’m interested in robotics science and coding
-- 🌱 I’m currently learning robotics
-- 💞️ I’m looking to collaborate on science
-- 📫 How to reach me WIN!
+- 👀 I’m interested in programming Python & C++ programming
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to write a game in pygame
 
 <!---
 
